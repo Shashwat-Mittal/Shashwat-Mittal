@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ### 📈 GitHub Activity:
-<<<<<<< HEAD
+
   <a href="https://github.com/shashwat-mittal/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shashwat-mittal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> 
 
 
