@@ -59,10 +59,8 @@ You can click the Preview link to take a look at your changes.
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=shashwat-mittal&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shashwat-mittal&theme=radical" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shashwat-mittal&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashwat-mittal&theme=dracula" /></span></a>
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat-mittal&hide=php&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat-mittal&hide=php&theme=dracula" />  
-</a>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashwat-mittal&theme=dracula" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat-mittal&hide=php&theme=dracula" /></span></a>
 
 </p>
 
