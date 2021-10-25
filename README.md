@@ -60,8 +60,8 @@ You can click the Preview link to take a look at your changes.
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shashwat-mittal&theme=radical" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shashwat-mittal&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashwat-mittal&theme=dracula" /></span></a>
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat-mittal&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat-mittal&hide=php&theme=tokyonight" />
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat-mittal&hide=php&theme=dracula">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat-mittal&hide=php&theme=dracula" />  
 </a>
 
 </p>
