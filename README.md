@@ -21,14 +21,14 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-- 👁️ I’m interested in Myself
-- 💞️ I’m looking to collaborate on Self Investment
-- 💻 I live in Ahmedabad
-- ⏳  Exploring Web Development and App Development
-- 🚀 Always ready to collaborate for Open Source Projects
-- 👨‍💻 Contributed for many projects at OpenCode
-- 🎯 Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-- 🏆 Working Hard to get something to write here
-- ⚡ Fun fact: I love to cook Tasty Food and Eat All Day<br>
+- 👁️ I’m interested in Myself  
+- 💞️ I’m looking to collaborate on Self Investment  
+- 💻 I live in Ahmedabad  
+- ⏳  Exploring Web Development and App Development  
+- 🚀 Always ready to collaborate for Open Source Projects  
+- 👨‍💻 Contributed for many projects at OpenCode  
+- 🎯 Life Hack: "Explore :fire: and Explode :bomb: with knowledge"  
+- 🏆 Working Hard to get something to write here  
+- ⚡ Fun fact: I love to cook Tasty Food and Eat All Day<br>  
 
 <h2 align="left">:heart: Let's get connected:</h2>
