@@ -70,7 +70,8 @@ You can click the Preview link to take a look at your changes.
 
   <a href="https://github.com/shashwat-mittal/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shashwat-mittal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> 
 ### Important Repositories
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shashwat-mittal&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shashwat-mittal&repo=Webpage&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shashwat-mittal&repo=To-Do-List&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
   
 ![snake gif](https://github.com/shashwat-mittal/Shashwat-Mittal/blob/output/github-contribution-grid-snake.gif)
