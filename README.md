@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Shashwat Mittal..
-- 👀 I’m interested in Myself...
-- 🌱 I’m currently learning different aspects of Programming...
-- 💞️ I’m looking to collaborate on Self Investment...
-- 📫 You can reach instagram at shahswat.mittal ...
-
 <!---
 shashwat-mittal/shashwat-mittal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -27,7 +21,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-
+- 👀 I’m interested in Myself...
+- 💞️ I’m looking to collaborate on Self Investment
 - :computer: I live in Ahmedabad
 - :hourglass_flowing_sand:  Exploring Web Development and App Development
 - :rocket: Always ready to collaborate for Open Source Projects
@@ -37,5 +32,3 @@ You can click the Preview link to take a look at your changes.
 - :zap: Fun fact: I love to cook Tasty Food and Eat All Day<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
-
-[![Linkedin Badge](https://img.shields.io/badge/-shashwat-mittal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shashwat-mittal-418637132/)](https://www.linkedin.com/in/shashwat-mittal-418637132/) [![Facebook Badge](https://img.shields.io/badge/-@shashwat-mittal-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/shashwat.mittal.5/)](https://www.facebook.com/shashwat.mittal.5) [![Instagram Badge](https://img.shields.io/badge/-@shashwat-mittal-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/shashwat.mittal/)](https://www.instagram.com/shashwat.mittal)
