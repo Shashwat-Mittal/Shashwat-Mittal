@@ -43,9 +43,11 @@ You can click the Preview link to take a look at your changes.
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/shashwat.mittal/)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/)
 
-### Coding Platforms
+### 🚀 Coding Platforms
 [![Codechef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/shashwat_iiita)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/shashwat_mittal) 
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/shashwat_mittal)
+[![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@shashwat_mittal) 
+
 <hr>
 
 <!--(https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)-->
