@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 ### Github Stats
   
 <p align="center">
-  <a href="https://github.com/amandewatnitrr"><span>
+  <a href="https://github.com/shashwat-mittal"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=shashwat-mittal&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shashwat-mittal&theme=radical" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shashwat-mittal&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
@@ -69,5 +69,9 @@ You can click the Preview link to take a look at your changes.
 ### 📈 GitHub Activity:
 
   <a href="https://github.com/shashwat-mittal/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shashwat-mittal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> 
+### Important Repositories
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shashwat-mittal&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+  
 ![snake gif](https://github.com/shashwat-mittal/Shashwat-Mittal/blob/output/github-contribution-grid-snake.gif)
 
