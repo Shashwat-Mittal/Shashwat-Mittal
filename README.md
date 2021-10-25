@@ -47,7 +47,6 @@ You can click the Preview link to take a look at your changes.
 
   
 ### Github Stats
-  
 <p align="center">
   <a href="https://github.com/shashwat-mittal"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=shashwat-mittal&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
@@ -56,6 +55,7 @@ You can click the Preview link to take a look at your changes.
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashwat-mittal&theme=dracula" />
     </span></a>
 </p>
+
   
 <br>
   
