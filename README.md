@@ -24,15 +24,15 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-- 👁️ I’m interested in Myself  <br />
-- 💞️ I’m looking to collaborate on Self Investment  <br />
-- 💻 I live in Ahmedabad  <br />
-- ⏳  Exploring Web Development and App Development  <br />
+- 👁️ I’m a Frontend Web Developer<br />
+- 💞️ I’m looking to collaborate on Projects  <br />
+- 💻 Born and broughtup in Ahmedabad<br />
+- ⏳ Exploring Product Management  <br />
 - 🚀 Always ready to collaborate for Open Source Projects  <br />
 - 👨‍💻 Contributed for many projects at OpenCode  <br />
 - 🎯 Life Hack: "Explore :fire: and Explode :bomb: with knowledge"  <br />
 - 🏆 Working Hard to get something to write here  <br />
-- ⚡ Fun fact: I love to cook Tasty Food and Eat All Day<br>  
+- ⚡ Fun fact: I love to try out new varieties of Dishes.<br>  
 
 <h2 align="left">:heart: Let's get connected:</h2>
   
@@ -43,10 +43,10 @@ You can click the Preview link to take a look at your changes.
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/shashwat.mittal/)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/)
 
-### 🚀 Coding Platforms
+<!-- ### 🚀 Coding Platforms
 [![Codechef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/shashwat_iiita)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/shashwat_mittal)
-[![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@shashwat_mittal)
+[![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@shashwat_mittal) -->
 
 <hr>
 
@@ -75,12 +75,11 @@ You can click the Preview link to take a look at your changes.
 </a>
 </p>
 
-### 📈 GitHub Activity:
+<!-- ### 📈 GitHub Activity: -->
 
-  <a href="https://github.com/shashwat-mittal/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shashwat-mittal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> 
-### Important Repositories
+<!-- ### Important Repositories
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shashwat-mittal&repo=Webpage&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shashwat-mittal&repo=To-Do-List&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shashwat-mittal&repo=To-Do-List&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) -->
 
   
 ![snake gif](https://github.com/shashwat-mittal/Shashwat-Mittal/blob/output/github-contribution-grid-snake.gif)
