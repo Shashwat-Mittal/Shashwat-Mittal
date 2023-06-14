@@ -27,12 +27,12 @@ You can click the Preview link to take a look at your changes.
 - 👁️ I’m a Frontend Web Developer<br />
 - 💞️ I’m looking to collaborate on Projects  <br />
 - 💻 Born and broughtup in Ahmedabad<br />
-- ⏳ Exploring Product Management  <br />
+<!-- - ⏳ Exploring Product Management  <br /> -->
 - 🚀 Always ready to collaborate for Open Source Projects  <br />
-- 👨‍💻 Contributed for many projects at OpenCode  <br />
+- 👨‍💻 Mentored and Contributed to many projects in OpenCode  <br />
 - 🎯 Life Hack: "Explore :fire: and Explode :bomb: with knowledge"  <br />
-- 🏆 Working Hard to get something to write here  <br />
-- ⚡ Fun fact: I love to try out new varieties of Dishes.<br>  
+<!-- - 🏆 Working Hard to get something to write here  <br />
+- ⚡ Fun fact: I love to try out new varieties of Dishes.<br>   -->
 
 <h2 align="left">:heart: Let's get connected:</h2>
   
