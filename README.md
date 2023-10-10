@@ -39,8 +39,8 @@ You can click the Preview link to take a look at your changes.
 ### ✍️ Write to Me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shashwat-mittal-418637132)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]([https://mittalshashwat.in/](https://shashwat-mittal.vercel.app/))
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mittal_shashwat)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/shashwat.mittal/)
+<!--[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mittal_shashwat)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/shashwat.mittal/) -->
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/)
 
 <!-- ### 🚀 Coding Platforms
@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 ### Github Stats
 <p align="center">
   <a href="https://github.com/shashwat-mittal"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=shashwat-mittal&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+<!--     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=shashwat-mittal&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/> -->
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shashwat-mittal&theme=radical" />
     <!--(<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shashwat-mittal&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>)-->
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashwat-mittal&theme=dracula" />
@@ -82,5 +82,5 @@ You can click the Preview link to take a look at your changes.
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shashwat-mittal&repo=To-Do-List&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) -->
 
   
-![snake gif](https://github.com/shashwat-mittal/Shashwat-Mittal/blob/output/github-contribution-grid-snake.gif)
+<!--![snake gif](https://github.com/shashwat-mittal/Shashwat-Mittal/blob/output/github-contribution-grid-snake.gif)-->
 
